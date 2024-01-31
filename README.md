@@ -1,7 +1,7 @@
-# CumulusCI-Professionals-Network
+# CumulusCI-Talent-Hub
 
 ## Introduction
-Welcome to the CumulusCI-Professionals-Network! This repository serves as a professional network for individuals skilled in CumulusCI, Salesforce DX, and Salesforce DevOps. Here, you can find a curated list of professionals with expertise in development, testing, consulting, and more, all within the Salesforce ecosystem.
+Welcome to the CumulusCI-Talent-Hub! This repository is a professional network for individuals skilled in CumulusCI, Salesforce DX, and Salesforce DevOps. Here, you can find a curated list of professionals with expertise in development, testing, consulting, and more, all within the Salesforce ecosystem.
 
 ## Resources
 - [CumulusCI GitHub Repository](https://github.com/SFDO-Tooling/CumulusCI)
@@ -23,7 +23,7 @@ Interested in joining our network? Open an issue with your professional details 
 - **Skills Categories:** (e.g., Development, Testing, Consulting)
 
 ## Disclaimer
-This list is provided for informational purposes only. The repository owner does not endorse any individuals listed nor guarantees the accuracy of the information provided.
+This list is provided for informational purposes only. The repository owner does not endorse any individuals listed nor guarantee the accuracy of the information provided.
 
 ## Contact
 For inquiries or suggestions, please open an issue in this repository.
